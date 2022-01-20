@@ -8,34 +8,34 @@ This layer depends on:
 
 * URI: git://git.yoctoproject.org/poky
   * branch: dunfell
-  * revision: 6ebb33bdaccaeadff0c85aab27acf35723df00d8
+  * revision: 74b22db6879b388d700f61e08cb3f239cf940d18
 
 * URI: git://github.com/renesas-rcar/meta-renesas
   * layers; meta-rcar-gen3
   * branch: dunfell
-  * revision: 0fe77668f5d9a31a5d10449988c3d8fb8dc475c5
+  * revision: 13fd24957b9acc29a235ee0c7f398fd867f38b47
 
 * URI: git://git.openembedded.org/meta-openembedded
   * layers: meta-oe, meta-networking, meta-python, meta-filesystems
   * branch: dunfell
-  * revision: c38d2a74f762a792046f3d3c377827b08aade513
+  * revision: 814eec96c2a29172da57a425a3609f8b6fcc6afe
 
 * URI: git://git.yoctoproject.org/meta-virtualization
   * branch: dunfell
-  * revision: 92cd3467502bd27b98a76862ca6525ce425a8479
+  * revision: c4f156fa93b37b2428e09ae22dbd7f5875606f4d
 
 * URI: git://git.yoctoproject.org/meta-java
   * branch: dunfell
-  * revision: 62d6c0653ad69e14c21db2d4482e578400116a1b
+  * revision: eeb136c64ecaa364d4e332d0182865dc65f2a83b
 
 * URI: git://github.com/aws/meta-aws
   * branch: dunfell
-  * revision: 09a9e8845e1c0685d279a5fec12dc2764e67675c
+  * revision: 9979cfa676105cb68cfadfdaeabf044d7c919319
 
 * URI: git://github.com/tkomagata/meta-docker
   * layers; meta-rcar-gen3
   * branch: dunfell
-  * revision: 1ca1b5caf6f373dcc49db82dce50f4d8ab9f25cd
+  * revision: ed0ed36e81b65c2f6707965e8bc379cabb0c1927
 
 ## Patches
 
