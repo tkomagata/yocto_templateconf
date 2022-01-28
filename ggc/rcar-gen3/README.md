@@ -35,7 +35,14 @@ This layer depends on:
 * URI: git://github.com/tkomagata/meta-docker
   * layers; meta-rcar-gen3
   * branch: dunfell
-  * revision: ed0ed36e81b65c2f6707965e8bc379cabb0c1927
+  * revision: 88b7c63e4e038dbeee7e4d815989d0794cc3fda4
+
+The following layer is required only for CCPF-SK board
+
+* URI: git://github.com/renesas-rcar/meta-renesas-ccpf
+  * layers; meta-rcar-gen3
+  * branch: dunfell
+  * revision: bc6d5b8008359de0208a6d2f936f8c6d09b208b3
 
 ## Patches
 
@@ -56,3 +63,4 @@ Maintainer: Tomohiro Komagata <tomohiro.komagata.aj at gmail.com>
 
 - Renesas Electronics Corporation. R-Car Starter Kit premier(H3ULCB) (R8A7795)
 - Renesas Electronics Corporation. R-Car Starter Kit pro(M3ULCB) (R8A7796)
+- Shimafuji Electric Incorporated. CCPF-SK board for R-Car Starter Kit
