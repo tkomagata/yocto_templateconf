@@ -35,14 +35,14 @@ This layer depends on:
 * URI: git://github.com/tkomagata/meta-docker
   * layers; meta-rcar-gen3
   * branch: dunfell
-  * revision: 88b7c63e4e038dbeee7e4d815989d0794cc3fda4
+  * revision: f8f83a7b15930b74b4af2ae5e7c4c55607fafa86
 
 The following layer is required only for CCPF-SK board
 
 * URI: git://github.com/renesas-rcar/meta-renesas-ccpf
   * layers; meta-rcar-gen3
   * branch: dunfell
-  * revision: bc6d5b8008359de0208a6d2f936f8c6d09b208b3
+  * revision: 09dd815616cce3a2bdcf8906c0d21403df8b93bd
 
 ## Patches
 
